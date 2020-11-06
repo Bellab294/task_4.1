@@ -7,7 +7,7 @@ LICENSE: [MIT](./license.md)
 -------
 
 ### Содержание:
-[TOC]
+
 
 1. [Введение](./intro.md)
 2. [git config](./config.md)
